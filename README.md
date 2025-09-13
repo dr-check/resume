@@ -15,3 +15,6 @@ If you want a real website, use a real website generator.
 Use SquareSpace. Make website good.
 
 Not sponsored.
+
+View the live page here
+https://dr-check.github.io/resume/index.html
