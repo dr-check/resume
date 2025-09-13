@@ -6,9 +6,9 @@
 
 body {
   /* Background Color */
-  background-color: #1f1c25;
+  background-color: hsl(0, 3%, 23%);
   /* Typography */
-  color: #f0e6d1;
+  color: hsl(0, 0%, 100%);
   font-family: "Luminari", "Georgia", serif;
   font-style: normal;
   line-height: 1.7;
@@ -25,10 +25,9 @@ h3,
 h4,
 h5,
 h6 {
-  color: #dda15e;
+  color: hsl(0, 0%, 100%);
   margin-top: 6px;
   margin-bottom: 2px;
-  text-shadow: 2px 2px 4px #000;
 }
 
 h1 {
@@ -71,7 +70,7 @@ main {
 }
 
 a {
-  color: #e0a96d;
+  color: hsl(0, 0%, 100%);
   text-decoration: none;
   border-bottom: 2px solid #e0a96d;
 }
@@ -99,14 +98,14 @@ a:hover {
 
 p {
   margin: auto;
-  color: #dda15e;
+  color: hsl(0, 0%, 100%);
   border-right: 2px #8d99ae;
 }
 
 ul,
 ol {
   padding-left: 30px;
-  color: #dda15e;
+  color: hsl(0, 0%, 100%);
   margin: auto;
   list-style-image: url("static/gear.png");
 }
@@ -148,7 +147,7 @@ blockquote {
 footer {
   text-align: right;
   margin-top: 20px;
-  color: #dda15e;
+  color: hsl(0, 0%, 100%);
   font-size: 0.9em;
 }
 
@@ -164,7 +163,7 @@ p span {
 }
 
 caption.title {
-  color: #dda15e;
+  color: hsl(0, 0%, 100%);
   font-weight: bold;
   font-size: 1.2em;
   margin-bottom: 10px;
@@ -172,7 +171,7 @@ caption.title {
 
 table, th, td, tr {
   width: auto;
-  color: #dda15e;
+  color: hsl(0, 0%, 100%);
   border: double #8d99ae;
   border-collapse: collapse;
   padding: 10px;
